@@ -1,5 +1,9 @@
 ## aws-amplify-gen2-example
 
+### Deploy to Amplify Hosting
+
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/Jay2113/gen2-template)
+
 ### Getting Started
 
 First, run the development server:
